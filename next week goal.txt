@@ -1,0 +1,10 @@
+
+- Implement end-to-end pipeline using the Go sample project that we have discussed in the class.
+- Go through the documentation of `gitlab-ci.yml` file on gitlab.com documentation page
+- Go through various variables available in the pipeline. Go through the documentation.
+
+Deliverables:
+- Everyone should have their own Go project in Gitlab.
+- Everyone should create their own Pipeline in Gitlab.
+- Arm Runners might not work unless you add your own runners. So you should make the ARM jobs "optional"
+- Should be able to answer any questions about the Pipeline file.
